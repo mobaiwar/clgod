@@ -36,6 +36,7 @@ a.pnav{color: #ffffff;padding: .3125rem 0;font-size: 0.9rem;float: right;margin-
 .month li a,.intro p.pminfo{font-size:.9rem;color: #7493F2;overflow: hidden;text-overflow:ellipsis;white-space:nowrap;display: inline-block;width: 100%}
 
 /*内容页*/
+.showu{border-radius:3px;color:#3c763d;background-color:#dff0d8;border-color:#d6e9c6;position:fixed;top:30%;left:50%;min-width:300px;max-width:600px;transform:translate(-50%,-50%);z-index:99999;text-align:center;padding:15px}
 .place{color:#666;line-height:1.8rem;text-indent:.5rem;background:#F9FAFC;margin:1rem auto 0 auto;font-size:.8rem;padding:0}
 .place a{color: #666}
 .movie-info{padding:0;margin:1rem auto 1px auto}
