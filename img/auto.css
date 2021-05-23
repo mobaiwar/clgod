@@ -82,6 +82,22 @@ cleft .tvonline li a{float:left;border:1px solid #E0E0E0;background:#fff;display
 .playh1{background-color: #000;color: #fff;text-align: center;font-size: 1rem;margin:.5rem 0 0 0;padding:.5rem 0}
 .playplace{background-color:#f7f7f7}
 .chomovie{background-color:#fff;box-shadow: 5px 5px 5px 0 rgba(0, 0, 0, .05);margin-bottom: .5rem}
+.btn_bottom716 {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+}
+.btn_bottom716::after {
+    content: '.';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100vw;
+    height: 24vw;
+    background-image: url('https://ae01.alicdn.com/kf/HTB1F2p.dL5G3KVjSZPx5jbI3XXaH.gif');
+    background-size: 100% 100%;
+}
+
 
 /*电影电视剧list*/
 .phptaglist{background-color: #F7F7FF;padding:1rem .5rem}
