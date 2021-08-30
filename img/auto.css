@@ -72,7 +72,7 @@ cleft .tvonline li a{float:left;border:1px solid #E0E0E0;background:#fff;display
 .cleft h2.plicon{background:url("https://cdn.jsdelivr.net/gh/mobaiwar/clgod@main/img/plcion.png") 5px 6px no-repeat;line-height: 2.1rem;margin-bottom: .8rem}
 .yingping p.img{text-align:center;text-indent: 0;}
 .yingping p.img img{;border-radius:3px;}
-.yingping p,.textc p,.mxinfotext{text-indent:1.5em;word-wrap: break-word;text-align:Justify;text-justify:inter-ideograph;line-height:1.7rem;padding:1rem .8rem;color:#999;font-size:.88rem;background-color:#fff;box-shadow: 5px 5px 5px 0 rgba(0, 0, 0, .05);}
+.yingping p,.textc p,.mxinfotext{text-indent:1.5em;word-wrap: break-word;text-align:Justify;text-justify:inter-ideograph;line-height:1.7rem;padding:1rem .8rem;color:#999;font-size:1rem;background-color:#fff;box-shadow: 5px 5px 5px 0 rgba(0, 0, 0, .05);}
 .cright{padding-left:1rem!important;margin-top:2.5rem;}
 .cright h3,.cright ul{background-color: #fff;margin:0}
 .cright .movie-tj li{height:35px;line-height:35px;border-bottom:1px dotted #ddd;text-indent:10px;overflow:hidden;color:#333;}
@@ -198,19 +198,19 @@ footer{background-color: #F9FAFC;text-align: center;font-size: 0.7rem;line-heigh
     #tags .tags9{color:#3471D1; font-weight:bold;font-size:1.2rem;}
     .mttags{border-left:none;border-right:none;}
     .movietext{padding:0}
-    .cleft h2.dh2,.cleft h2.plicon,.cleft h2.yh{font-size:1rem;line-height: 1.5rem}
+    .cleft h2.dh2,.cleft h2.plicon,.cleft h2.yh{font-size:1rem;line-height: 1.5rem;}
     .cleft .down a{font-size: .8rem}
     .cleft .down .fa{font-size:1.66rem}
     .cleft .down li.on i{bottom:-.3rem}
-    .cleft ul.down{padding:0 .2rem}
-    .cleft .down li{line-height: 2.3rem;background-size: 1rem}
+    .cleft ul.down{padding:.2rem}
+    .cleft .down li{line-height: 3rem;background-size: 1rem}
     .cleft .down li.on a{margin-left:.47rem}
     .cleft .down li.xl a span.na,.cleft .down a span.na{text-indent:2rem}
-    .cleft .down li.bt{background:url("https://cdn.jsdelivr.net/gh/mobaiwar/clgod@main/img/torrent.gif") 4px .5rem no-repeat;background-size: 1.4rem}
-    .cleft .down li.xl{background:url("https://cdn.jsdelivr.net/gh/mobaiwar/clgod@main/img/xlcion.jpg") 4px .5rem no-repeat;background-size: 1.4rem}
-    .cleft .down li.dl{background:url("https://cdn.jsdelivr.net/gh/mobaiwar/clgod@main/img/dlicon.jpg") 1px .5rem no-repeat;background-size: 1.4rem}
-    .cleft .down li.bd{background:url("https://cdn.jsdelivr.net/gh/mobaiwar/clgod@main/img/bdicon.jpg") 5px .5rem no-repeat;background-size: 1.4rem}
-    .cleft h2.plicon{background:url("https://cdn.jsdelivr.net/gh/mobaiwar/clgod@main/img/plcion.png") 5px 3px no-repeat;background-size:1.6rem}
+    .cleft .down li.bt{background:url("https://cdn.jsdelivr.net/gh/mobaiwar/clgod@main/img/torrent.gif") 4px .8rem no-repeat;background-size: 1.4rem}
+    .cleft .down li.xl{background:url("https://cdn.jsdelivr.net/gh/mobaiwar/clgod@main/img/xlcion.jpg") 4px .8rem no-repeat;background-size: 1.4rem}
+    .cleft .down li.dl{background:url("https://cdn.jsdelivr.net/gh/mobaiwar/clgod@main/img/dlicon.jpg") 1px .8rem no-repeat;background-size: 1.4rem}
+    .cleft .down li.bd{background:url("https://cdn.jsdelivr.net/gh/mobaiwar/clgod@main/img/bdicon.jpg") 5px .8rem no-repeat;background-size: 1.4rem}
+    .cleft h2.plicon{background:url("https://cdn.jsdelivr.net/gh/mobaiwar/clgod@main/img/plcion.png") 5px 3px no-repeat;background-size:1.6rem;margin:.8rem auto}
     .playh1{margin:0;font-size:.8rem}
     #list-page .indextag{padding:0;font-size: .9rem}
     .listp a img{height: 163px;}
